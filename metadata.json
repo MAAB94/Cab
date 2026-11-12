@@ -1,0 +1,7 @@
+{
+  "name": "Cab Treasure Cloud X - Dispatcher Platform",
+  "description": "Professional operational dispatch and driver management system for cab companies, featuring real-time driver onboard tracking, waiting queue, high-density booking management, and automated dispatch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
